@@ -1,7 +1,7 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: Kallepalli Akash Sai Ganesh Govind
+- Name: Kallepalli Akash Sai Ganesh
 - Student ID: 23MH1A1220
 - Repository: https://github.com/Akashkallepalli/git-solved-23MH1A1220.git
 - Date Started: 29-10-2025
